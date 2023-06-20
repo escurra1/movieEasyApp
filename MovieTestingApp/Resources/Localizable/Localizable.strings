@@ -1,0 +1,23 @@
+/* 
+ Localizable.strings
+ MovieTestingApp
+ 
+ Created by Escurra Colquis on 16/06/23.
+ 
+ */
+
+"accept" = "Aceptar";
+"errorService" = "Error de servicio";
+"loadData" = "Cargando";
+"pleaseWait" = "espere por favor...";
+"trailerNotFound" = "Trailer no encontrado";
+"verificatedInternet" = "Verifica tu internet";
+"error" = "Error";
+"searchMovie" = "Buscar Película";
+"listIsEmpty" = "Película no encontrada";
+"messageAlert" = "Por favor escribir una película en esta lista para poder buscarla. Gracias";
+"alertIncompleteTitle" = "Información incompleta";
+"alertDescriptionMessage" = "Verifica los datos ingresados y escriba de nuevo por favor";
+"textFieldRequerired" = "Usuario o contraseña vacia, escriba de nuevo por favor";
+"warningTitle" = "Advertencia";
+"errorServiceDescription" = "Hay algunos inconvenientes en el servicio, salga de la app e intente más tarde por favor";
